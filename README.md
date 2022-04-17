@@ -3,6 +3,9 @@ A basic IDE/code editor for Python
 
 Features include Themes
 
+If you are on linux download run,nukeide and themes in the releases page
+then run the file named "run"
+
 currently under development
 
 WARNING:
