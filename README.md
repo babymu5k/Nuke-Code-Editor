@@ -1,5 +1,5 @@
 # Nuke-IDE
-A basic IDE/code editor for Python
+A basic code editor for Python
 
 Features include Themes
 ![image](https://user-images.githubusercontent.com/95881676/163726409-9448ccde-d2a2-4d56-9064-1b19b5be77f7.png)
