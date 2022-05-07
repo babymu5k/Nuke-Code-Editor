@@ -18,12 +18,12 @@ make sure to save the file BEFORE you run and dont try to run a blank file it wi
 
 _____
 ## TODO:
--[] Extensions/plugins are easier to setup
+-[X] Extensions/plugins are easier to setup
 
--[] stability(app crashes are less common)
+-[ ] stability(app crashes are less common)
 
--[] Tabs system
+-[ ] Tabs system
 
--[] App auto updates
+-[ ] App auto updates
 
--[] notifactions
+-[ ] notifactions
