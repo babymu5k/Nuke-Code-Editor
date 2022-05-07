@@ -22,3 +22,4 @@ _____
 * stability(app crashes are less common)
 * Tabs system
 * App auto updates
+* ~~notifactions~~✅
